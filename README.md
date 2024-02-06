@@ -1,6 +1,6 @@
-# Electron with Vite, React and Tailwind CSS Template
+# Electron with Vite, React and Tailwind CSS, Shardcn/ui Template
 
-This is a template for creating applications using Electron, Vite, React and Tailwind CSS.
+This is a template for creating applications using Electron, Vite, React,Tailwind CSS, Shardcn/ui, redux tool kit,redux persist, react-router,.
 
 ## Features
 
@@ -22,3 +22,4 @@ This is a template for creating applications using Electron, Vite, React and Tai
 
 ```bash
 git clone https://github.com/victorfloress/ElectronTemplate.git
+```

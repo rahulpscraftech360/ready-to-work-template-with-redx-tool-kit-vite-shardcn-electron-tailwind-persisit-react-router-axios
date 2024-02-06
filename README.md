@@ -21,5 +21,5 @@ This is a template for creating applications using Electron, Vite, React,Tailwin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/victorfloress/ElectronTemplate.git
+git clone https://github.com/rahulpscraftech360/ready-to-work-template-with-redx-tool-kit-vite-shardcn-electron-tailwind-persisit-react-router-axios.git
 ```
